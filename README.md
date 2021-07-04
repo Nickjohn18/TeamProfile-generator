@@ -6,7 +6,7 @@ This project consists of node.js and OOP that utilizes user's input, creating a 
 
 ![img](https://user-images.githubusercontent.com/81334326/124395365-be111c00-dcd1-11eb-8334-c83f113a762e.png)
 
-![VideoLink](https://drive.google.com/file/d/1v9DVvh9DiOZUV1HJsgwdf2I95_bedH8o/view)
+(https://drive.google.com/file/d/1v9DVvh9DiOZUV1HJsgwdf2I95_bedH8o/view)
 
 ## Table of Contents
 
